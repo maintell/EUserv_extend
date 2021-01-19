@@ -1,4 +1,5 @@
 # EUserv_extend
+![EUserv Auto Extend](https://github.com/maintell/EUserv_extend/workflows/EUserv%20Auto%20Extend/badge.svg?branch=main)
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
 
 ## 说明
